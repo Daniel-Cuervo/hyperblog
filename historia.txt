@@ -3,3 +3,5 @@ Hola soy juan cuervo
 estudio en el colegio manablanca y tengo 13 años
 
 y esta es mi historia
+
+Ahora en 2020 soy desarrollador web frontend y backend
